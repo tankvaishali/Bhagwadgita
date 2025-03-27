@@ -138,8 +138,14 @@ function Buynow() {
                                     <div className="bg-white shadow p-4">
                                         <div className="title fs-5 gujfont"> Shreemad Bhagavad Gita Course Registration Form</div>
                                         <div className="rounded mt-2" style={{ width: "50px", border: "3px solid var(--orange)" }}></div>
+                                        <div className='gujfont   mb-1'>
+ખાસ નોંધ - 
 
-                                        <div className="w-100 mt-4">
+શ્રીમદ્ ભગવદ્ ગીતા કોર્સ પ્રત્યે લોકોનો ખૂબ સારો ઉત્સાહ જોવા મળી રહ્યો છે, અને એ ઉત્સાહ અને પ્રેમ થી કાર્યક્રમ સ્થળ સરદાર સ્મૃતિ ભવન ની તમામ સીટો હાલ માં રજીસ્ટર થઈ ચૂકી છે, તો તા. 27/03/2025 ના દિવસે બપોરે બાર વાગ્યા પછી જો કોઈનું લિંક પર રજીસ્ટ્રેશન આવશે એમને અન્ય કોઈ વ્યક્તિ ની સીટ કેન્સલ થશે અથવા પ્રવેશ પાસ નહીં લેવા આવે તો એમને સીટ મળી  શકશે નવા દરેક રજીસ્ટ્રેશન કરવા વાળા વ્યક્તિઓ એ આ સૂચન ધ્યાન માં લેવું... સહકાર આપશો... 
+જય શ્રી કૃષ્ણ
+</div>
+
+                                        <div className="w-100 mt-2">
                                             <label htmlFor="name" className="w-25">Name</label>
                                             <input type="text" className="w-75 input_form rounded border border-1 border-secondary px-2 py-1" name="name" value={obj.name} onChange={getdata} id="name" />
                                             <div className='text-danger w-75 ms-auto'>{errormsg.name}</div>
