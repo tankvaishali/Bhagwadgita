@@ -56,6 +56,10 @@ function AdhyatmikQue() {
             src: require("../Images/supported_logo.jpeg"),
             alt: "Goldi Solar"
         },
+        {
+            src: require("../Images/City Tadka logo.jpg"),
+            alt: "Goldi Solar"
+        },
     ]
     return (
         <>
@@ -102,14 +106,14 @@ function AdhyatmikQue() {
                     <div className="container">
                         <div className="row d-flex text-center justify-content-center my-2 bg-white col-md-12 col-8 mx-auto" style={{ border: "4px solid var(--orange)" }}>
                             {logos.map((logo, index) => (
-                                <div key={index} className="col-8 col-md-6 col-lg-3 col-sm-6 px-0">
+                                <div key={index} className="col-8 col-md-6 col-lg-4 col-sm-6 px-0">
                                     <div className="d-flex justify-content-center bg-white w-100 h-100 rounded-4" >
                                         <img
                                             src={logo.src}
                                             alt={logo.alt}
                                             height={200}
                                             width={200}
-                                            className="img-fluid rounded-3 object-fit-contain my-3"
+                                            className="img-fluid rounded-3 object-fit-contain my-3 "
                                         />
                                     </div>
                                 </div>
@@ -130,7 +134,7 @@ function AdhyatmikQue() {
                                                 alt={logo.alt}
                                                 height={200}
                                                 width={200}
-                                                className="img-fluid rounded-3 object-fit-contain"
+                                                className="img-fluid rounded-3 object-fit-contain bg-body-secondary"
                                             />
                                         </div>
                                     </div>
