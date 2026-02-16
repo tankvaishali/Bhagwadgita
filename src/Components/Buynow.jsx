@@ -115,9 +115,9 @@ function Buynow() {
                                     <div className="title fs-3 mt-3 mb-2 gujfont">Shreemad Bhagavad Gita Course In Surat</div>
                                     <div className="rounded" style={{ width: "50px", border: "3px solid var(--orange)" }}></div>
                                     <div className="my-3">
-                                        <div><span className="fw-bold gujfont">Date :</span> 9, 10, 11 April 2025</div>
+                                        <div><span className="fw-bold gujfont">Date :</span> 9, 10, 11 April 2026</div>
                                         <div className="my-1"><span className="fw-bold gujfont">Time :</span> 08:00 PM to 11:30 PM</div>
-                                        <div><span className="fw-bold gujfont">Venue :</span> Sardar Patel Smruti Bhavan - Varachha Main Road Hira Nagar, Mini Bazar, Khodiyar Nagar, Surat.</div>
+                                        <div><span className="fw-bold gujfont">Venue :</span> Sampada Festivity, Near Anthems Circle, Kosmada Ring Road, Surat.</div>
                                     </div>
                                     <div className="w-100 h-100">
                                         <img src={require("../Images/ImportedPhoto_1741755792907.jpg")} className="img-fluid object-fit-cover rounded w-100 h-100" alt="" />
@@ -139,11 +139,11 @@ function Buynow() {
                                         <div className="title fs-5 gujfont"> Shreemad Bhagavad Gita Course Registration Form</div>
                                         <div className="rounded mt-2" style={{ width: "50px", border: "3px solid var(--orange)" }}></div>
                                         <div className='gujfont   mb-1'>
-ખાસ નોંધ - 
+                                            ખાસ નોંધ -
 
-શ્રીમદ્ ભગવદ્ ગીતા કોર્સ પ્રત્યે લોકોનો ખૂબ સારો ઉત્સાહ જોવા મળી રહ્યો છે, અને એ ઉત્સાહ અને પ્રેમ થી કાર્યક્રમ સ્થળ સરદાર સ્મૃતિ ભવન ની તમામ સીટો હાલ માં રજીસ્ટર થઈ ચૂકી છે, તો તા. 27/03/2025 ના દિવસે બપોરે બાર વાગ્યા પછી જો કોઈનું લિંક પર રજીસ્ટ્રેશન આવશે એમને અન્ય કોઈ વ્યક્તિ ની સીટ કેન્સલ થશે અથવા પ્રવેશ પાસ નહીં લેવા આવે તો એમને સીટ મળી  શકશે નવા દરેક રજીસ્ટ્રેશન કરવા વાળા વ્યક્તિઓ એ આ સૂચન ધ્યાન માં લેવું... સહકાર આપશો... 
-જય શ્રી કૃષ્ણ
-</div>
+                                            શ્રીમદ્ ભગવદ્ ગીતા કોર્સ પ્રત્યે લોકોનો ખૂબ સારો ઉત્સાહ જોવા મળી રહ્યો છે, અને એ ઉત્સાહ અને પ્રેમ થી કાર્યક્રમ સ્થળ સરદાર સ્મૃતિ ભવન ની તમામ સીટો હાલ માં રજીસ્ટર થઈ ચૂકી છે, તો તા. 27/03/2026 ના દિવસે બપોરે બાર વાગ્યા પછી જો કોઈનું લિંક પર રજીસ્ટ્રેશન આવશે એમને અન્ય કોઈ વ્યક્તિ ની સીટ કેન્સલ થશે અથવા પ્રવેશ પાસ નહીં લેવા આવે તો એમને સીટ મળી  શકશે નવા દરેક રજીસ્ટ્રેશન કરવા વાળા વ્યક્તિઓ એ આ સૂચન ધ્યાન માં લેવું... સહકાર આપશો...
+                                            જય શ્રી કૃષ્ણ
+                                        </div>
 
                                         <div className="w-100 mt-2">
                                             <label htmlFor="name" className="w-25">Name</label>
@@ -168,24 +168,24 @@ function Buynow() {
                                             <select id="area" className="w-75 input_form rounded border border-1 border-secondary px-2 py-1" name="area" value={obj.area} onChange={getdata}>
                                                 <option value="">Select Nearest Area</option>
                                                 <option value="Adajan">Adajan</option>
-                                                <option value="Althan">Althan</option>
+                                                <option value="Vesu">Vesu</option>
                                                 <option value="Amroli">Amroli</option>
+                                                <option value="Katargam">Katargam</option>
+                                                <option value="Hirabag">Hirabag</option>
+                                                <option value="Kapodra">Kapodra</option>
+                                                <option value="Sarthana">Sarthana</option>
+                                                <option value="Kamrej">Kamrej</option>
+                                                {/* <option value="Althan">Althan</option>
                                                 <option value="Gajera_Katargam">Gajera (Katargam)</option>
                                                 <option value="Ghoddodroad">Ghod Dod Road</option>
-                                                <option value="Hirabag">Hirabag</option>
-                                                <option value="Kamrej">Kamrej</option>
-                                                <option value="Kapodra">Kapodra</option>
-                                                <option value="Katargam">Katargam</option>
                                                 <option value="Mota Varachha">Mota Varachha</option>
                                                 <option value="Punagam">Punagam</option>
                                                 <option value="Puna_Parvat-Patiya">Puna (Parvat-Patiya)</option>
                                                 <option value="Railway Station Area">Railway Station Area</option>
-                                                <option value="Sarthana">Sarthana</option>
                                                 <option value="Utran">Utran</option>
                                                 <option value="Valak_Patiya">Valak Patiya</option>
                                                 <option value="Valenja">Valenja</option>
-                                                <option value="Vesu">Vesu</option>
-                                                <option value="Yogi Chowk">Yogi Chowk</option>
+                                                <option value="Yogi Chowk">Yogi Chowk</option> */}
                                             </select>
                                             <div className='text-danger w-75 ms-auto'>{errormsg.area}</div>
                                         </div>

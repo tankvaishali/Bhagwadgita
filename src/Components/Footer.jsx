@@ -22,7 +22,7 @@ function Footer() {
             <div className='container'>
                 <div style={{ fontFamily: "Sora, Sans-serif" }}>
                     <p className='h3'>
-                        Venue: Sardar Patel Smruti Bhavan - Varachha Main Road Hira Nagar, Mini Bazar, Khodiyar Nagar, Surat.
+                        Venue: Sampada Festivity, Near Anthems Circle, Kosmada Ring Road, Surat.
                     </p>
                     <p className='h3 p-4 pb-0 mb-3 Call_tittle'>
                         <span className="p-1 px-3 rounded-4" style={{ backgroundColor: "#f17f00" }}>
@@ -44,7 +44,7 @@ function Footer() {
                                                 onClick={() => makeCall(number)}
                                                 style={{ cursor: 'pointer' }}
                                             >
-                                              <BiSolidPhoneCall />
+                                                <BiSolidPhoneCall />
                                             </div>
                                             <div
                                                 className='text-success fs-3 d-flex align-items-center justify-content-center ms-2 cursor-pointer'
