@@ -106,14 +106,14 @@ function AdhyatmikQue() {
                     <div className="container">
                         <div className="row d-flex text-center justify-content-center my-2 bg-white col-md-12 col-8 mx-auto" style={{ border: "4px solid var(--orange)" }}>
                             {logos.map((logo, index) => (
-                                <div key={index} className="col-8 col-md-6 col-lg-4 col-sm-6 px-0">
+                                <div key={index} className="col-6 col-md-6 col-lg-4 col-sm-6 px-0">
                                     <div className="d-flex justify-content-center bg-white w-100 h-100 rounded-4" >
                                         <img
                                             src={logo.src}
                                             alt={logo.alt}
                                             height={200}
                                             width={200}
-                                            className="img-fluid rounded-3 object-fit-contain my-3 "
+                                            className="img-fluid rounded-3 object-fit-contain my-3 px-sm-0 px-2"
                                         />
                                     </div>
                                 </div>
@@ -127,14 +127,14 @@ function AdhyatmikQue() {
                         <div className="">
                             <div className="row d-flex text-center justify-content-center my-2 bg-white col-md-12 col-8 mx-auto" style={{ border: "4px solid var(--orange)" }}>
                                 {supportedlogos.map((logo, index) => (
-                                    <div key={index} className="col-8 col-md-6 col-lg-3 col-sm-6 px-0 my-4">
-                                        <div className="d-flex justify-content-center bg-white w-100 h-100 rounded-4" >
+                                    <div key={index} className="col-5 col-md-6 col-lg-4 col-sm-6 px-0 mx-1">
+                                        <div className="d-flex justify-content-center bg-white w-100 h-100 rounded-4 mx-1" >
                                             <img
                                                 src={logo.src}
                                                 alt={logo.alt}
                                                 height={200}
                                                 width={200}
-                                                className="img-fluid rounded-3 object-fit-contain bg-body-secondary"
+                                                className="img-fluid rounded-3 object-fit-contain bg-body-secondary my-3  px-sm-0 px-2"
                                             />
                                         </div>
                                     </div>
