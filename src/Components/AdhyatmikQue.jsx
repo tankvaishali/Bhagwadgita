@@ -41,13 +41,27 @@ function AdhyatmikQue() {
             src: require("../Images/SHG_Shri_Hari_Group_Logo_17.0-removebg-preview.png"),
             alt: "SHG Shri Hari Group"
         },
+        {
+            src: require("../Images/unique_sponser.jpeg"),
+            alt: "Shivam Jewels"
+        },
+        {
+            src: require("../Images/shree shubhlaxmi art sponcer.png"),
+            alt: "SHG Shri Hari Group"
+        },
     ];
 
+    const supportedlogos = [
+        {
+            src: require("../Images/supported_logo.jpeg"),
+            alt: "Goldi Solar"
+        },
+    ]
     return (
         <>
             <div className='darkviolet'>
                 <div className=" yellowcolor lightviolet title  text-center gujfont">
-                આધ્યાત્મિક જીવનના પ્રશ્નો
+                    આધ્યાત્મિક જીવનના પ્રશ્નો
                 </div>
 
                 <div className="container  ">
@@ -74,8 +88,8 @@ function AdhyatmikQue() {
                     </div>
 
                     <div className="col-12 lightviolet text-white text-center mt-1 fs-5 fw-bold p-2 rounded-2">
-                        <h2 className='fw-bold gujfont ' style={{lineHeight:1.6}}>કાળ + પ્રકૃતિનાં ગુણોનો અભ્યાસ + કર્મનો સિદ્ધાંત = <span className='text-danger'> પરિણામ</span></h2>
-                        <h2 className='fw-bold gujfont ' style={{lineHeight:1.6}}>પરિણામ + ગીતાજ્ઞાન = <span className='text-danger'> સફળતા</span></h2>
+                        <h2 className='fw-bold gujfont ' style={{ lineHeight: 1.6 }}>કાળ + પ્રકૃતિનાં ગુણોનો અભ્યાસ + કર્મનો સિદ્ધાંત = <span className='text-danger'> પરિણામ</span></h2>
+                        <h2 className='fw-bold gujfont ' style={{ lineHeight: 1.6 }}>પરિણામ + ગીતાજ્ઞાન = <span className='text-danger'> સફળતા</span></h2>
                     </div>
                 </div>
             </div>
@@ -102,8 +116,29 @@ function AdhyatmikQue() {
                             ))}
                         </div>
                     </div>
+                    <div className="container">
+                        <div className='title text-white text-center px-2 px-md-4 text-capitalize gujfont'>
+                            <span className='orangecolor'>supprted by</span>
+                        </div>
+                        <div className="row d-flex text-center justify-content-center my-2 col-md-12 col-8 mx-auto">
+                            {supportedlogos.map((logo, index) => (
+                                <div key={index} className="col-8 col-md-6 col-lg-3 col-sm-6 px-0">
+                                    <div className="d-flex justify-content-center  w-100 h-100" >
+                                        <img
+                                            src={logo.src}
+                                            alt={logo.alt}
+                                            height={300}
+                                            width={300}
+                                            className="img-fluid rounded-3 object-fit-contain bg-white rounded-4"
+                                            style={{ border: "4px solid var(--orange)" }}
+                                        />
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
+                    </div>
 
-                   
+
                 </div>
             </div>
         </>
