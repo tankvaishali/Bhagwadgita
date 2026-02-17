@@ -119,9 +119,9 @@ function Buynow() {
                                         <div className="my-1"><span className="fw-bold gujfont">Time :</span> 08:00 PM to 11:30 PM</div>
                                         <div><span className="fw-bold gujfont">Venue :</span> Sampada Festivity, Near Anthems Circle, Kosmada Ring Road, Surat.</div>
                                     </div>
-                                    <div className="w-100 h-100">
+                                    {/* <div className="w-100 h-100">
                                         <img src={require("../Images/ImportedPhoto_1741755792907.jpg")} className="img-fluid object-fit-cover rounded w-100 h-100" alt="" />
-                                    </div>
+                                    </div> */}
                                     <div className="my-3">
                                         <div className="fw-bold gujfont">Contact Us :</div>
                                         <Link to={"mailto:official@socialarmytrust.com"} className="text-decoration-none text-dark contact_menu">

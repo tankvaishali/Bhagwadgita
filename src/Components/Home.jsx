@@ -16,6 +16,7 @@ function Home() {
       <LifeQue />
       <AdhyatmikQue />
       <Imagegrid />
+      <Ticketscard />
       <Footer />
     </>
   );
