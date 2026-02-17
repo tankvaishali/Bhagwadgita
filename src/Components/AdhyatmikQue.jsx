@@ -113,7 +113,7 @@ function AdhyatmikQue() {
                                             alt={logo.alt}
                                             height={200}
                                             width={200}
-                                            className="img-fluid rounded-3 object-fit-contain my-3 px-sm-0 px-2"
+                                            className="img-fluid object-fit-contain my-3 px-sm-0 px-2 bg-white"
                                         />
                                     </div>
                                 </div>
@@ -134,7 +134,7 @@ function AdhyatmikQue() {
                                                 alt={logo.alt}
                                                 height={200}
                                                 width={200}
-                                                className="img-fluid rounded-3 object-fit-contain my-3  px-sm-0 px-2"
+                                                className="img-fluid object-fit-contain my-3  px-sm-0 px-2 bg-white"
                                             />
                                         </div>
                                     </div>
