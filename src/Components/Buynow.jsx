@@ -138,12 +138,12 @@ function Buynow() {
                                     <div className="bg-white shadow p-4">
                                         <div className="title fs-5 gujfont"> Shreemad Bhagavad Gita Course Registration Form</div>
                                         <div className="rounded mt-2" style={{ width: "50px", border: "3px solid var(--orange)" }}></div>
-                                        <div className='gujfont   mb-1'>
+                                        {/* <div className='gujfont   mb-1'>
                                             ખાસ નોંધ -
 
                                             શ્રીમદ્ ભગવદ્ ગીતા કોર્સ પ્રત્યે લોકોનો ખૂબ સારો ઉત્સાહ જોવા મળી રહ્યો છે, અને એ ઉત્સાહ અને પ્રેમ થી કાર્યક્રમ સ્થળ સરદાર સ્મૃતિ ભવન ની તમામ સીટો હાલ માં રજીસ્ટર થઈ ચૂકી છે, તો તા. 01/04/2026 ના દિવસે બપોરે બાર વાગ્યા પછી જો કોઈનું લિંક પર રજીસ્ટ્રેશન આવશે એમને અન્ય કોઈ વ્યક્તિ ની સીટ કેન્સલ થશે અથવા પ્રવેશ પાસ નહીં લેવા આવે તો એમને સીટ મળી  શકશે નવા દરેક રજીસ્ટ્રેશન કરવા વાળા વ્યક્તિઓ એ આ સૂચન ધ્યાન માં લેવું... સહકાર આપશો...
                                             જય શ્રી કૃષ્ણ
-                                        </div>
+                                        </div> */}
 
                                         <div className="w-100 mt-2">
                                             <label htmlFor="name" className="w-25">Name</label>
@@ -208,6 +208,9 @@ function Buynow() {
                                             પાસ જે તે સેંટર પર આવશે એટલે કોલ કરી જાણકારી આપવા માં આવશે,
                                             ફિઝિકલ પાસ લેવો ફરજીયાત છે.
                                         </div>
+                                        <div className="text-dark fw-bold my-3" style={{ fontSize: "12px" }}>
+                                            નોંધ – ત્રણ દિવસીય શ્રીમદ્ ભગવદ્ ગીતા કાર્યક્રમ દરમિયાન દરરોજ કાર્યક્રમ પૂર્ણ થયા બાદ સર્વે હરિભક્તો માટે પાવન હરિપ્રસાદની વ્યવસ્થા રાખવામાં આવેલ છે. 🙏
+                                        </div>
 
                                         <div className="w-100">
                                             <Link to={""} className="text-decoration-none">
@@ -216,6 +219,7 @@ function Buynow() {
                                         </div>
                                     </div>
                                 </div>
+
                             </div>
                         </div>
                     </div>

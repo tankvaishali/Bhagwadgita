@@ -4,9 +4,9 @@ function TransformLife() {
         <div className='lightviolet '>
 
             <div className="container">
-                <div className="text-center">
+                {/* <div className="text-center">
                     <img src={require('../Images/Geeta Status PNg.jpg')} alt="" className='img-fluid py-3' style={{ width: "350px" }} />
-                </div>
+                </div> */}
                 <div className='text-center col-sm-8 col-12 mx-auto'>
                     <p className='text-light lh-lg' style={{ fontFamily: "Hind Vadodara" }}><span className='fw-bold orangecolor'>શ્રીમદ્ ભગવદ્ ગીતા </span> એ આપણા હિન્દુ સનાતન સાહિત્યનો હૃદય સમાન ગ્રંથ છે અને જ્ઞાન,કર્મ અને ભક્તિના અજોડ સંગમથી સફળતાના શિખરો પાર કરી શકાય છે જેનું જીવતું જાગતું ઉદાહરણ એટલે આપણા સૌના વ્હાલા ગોવિંદકાકા એમના જીવનમાં ગીતા દ્વારા થયેલા બદલાવ વિશે માર્ગદર્શન આપશે.</p>
                 </div>

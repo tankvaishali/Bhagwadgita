@@ -43,22 +43,22 @@ function AdhyatmikQue() {
         },
         {
             src: require("../Images/unique_sponser.jpeg"),
-            alt: "Shivam Jewels"
+            alt: "unique"
         },
         {
             src: require("../Images/shree shubhlaxmi art sponcer_sm.png"),
-            alt: "SHG Shri Hari Group"
+            alt: "shree shubhlaxmi art"
         },
     ];
 
     const supportedlogos = [
         {
-            src: require("../Images/supported_logo.jpeg"),
-            alt: "Goldi Solar"
+            src: require("../Images/supported_logo-removebg-preview.png"),
+            alt: "sampada festivity"
         },
         {
             src: require("../Images/City Tadka logo.jpg"),
-            alt: "Goldi Solar"
+            alt: "City Tadka"
         },
     ]
     return (
