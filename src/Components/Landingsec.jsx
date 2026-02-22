@@ -37,7 +37,7 @@ function Landingsec() {
                     </div>
                     <div className="row d-flex justify-content-center py-3 ">
                         <div className="col-12 col-md-6 col-lg-6">
-                            <img src={require("../Images/ImportedPhoto_1741755792907.jpg")} alt="" className='img-fluid object-fit-cover rounded-4 border border-secondary border-4 w-100 h-100' />
+                            <img src={require("../Images/Main_poster_2026.jpeg")} alt="" className='img-fluid object-fit-cover rounded-4 border border-secondary border-4 w-100 h-100' />
                         </div>
                     </div>
                     {/* <div className='gujfont text-center text-white mb-1'>

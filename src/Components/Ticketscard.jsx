@@ -17,7 +17,7 @@ function Ticketscard() {
                                         (For 3 Days)
                                     </div>
                                     <div className='fw-bold display-6'>
-                                        ₹ 300
+                                        ₹ 200
                                     </div>
                                 </div>
                                 <div className='mt-2'>
