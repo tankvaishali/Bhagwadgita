@@ -82,7 +82,7 @@ function AdhyatmikQue() {
                                         return (
                                             <div key={i} className='d-flex align-items-center py-1 '>
                                                 <div className='fs-5 d-flex align-items-center justify-content-center'><FaHandPointRight /></div>
-                                                <div className='ps-2 pera gujfont'>{x.pera}</div>
+                                                <div className='ps-2 pera gujfont' style={{ fontFamily: "Hind Vadodara" }}>{x.pera}</div>
                                             </div>
                                         )
                                     })
@@ -92,11 +92,11 @@ function AdhyatmikQue() {
                     </div>
 
                     <div className="col-12 lightviolet text-white text-center mt-1 fs-5 fw-bold p-2 rounded-2">
-                        <h2 className='fw-bold gujfont ' style={{ lineHeight: 1.6 }}>કાળ + પ્રકૃતિનાં ગુણોનો અભ્યાસ + કર્મનો સિદ્ધાંત = <span className='text-danger'> પરિણામ</span></h2>
-                        <h2 className='fw-bold gujfont ' style={{ lineHeight: 1.6 }}>પરિણામ + ગીતાજ્ઞાન = <span className='text-danger'> સફળતા</span></h2>
+                        <h2 className='fw-bold' style={{ lineHeight: 1.6, fontFamily: "Hind Vadodara" }}>કાળ + પ્રકૃતિનાં ગુણોનો અભ્યાસ + કર્મનો સિદ્ધાંત = <span className='text-danger'> પરિણામ</span></h2>
+                        <h2 className='fw-bold' style={{ lineHeight: 1.6, fontFamily: "Hind Vadodara" }}>પરિણામ + ગીતાજ્ઞાન = <span className='text-danger'> સફળતા</span></h2>
                     </div>
                 </div>
-            </div>
+            </div >
 
             <div className="lightviolet">
                 <div className="container p-2">
