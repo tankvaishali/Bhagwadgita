@@ -1,7 +1,5 @@
 import axios from "axios";
 import { useState } from "react";
-import { IoMail } from "react-icons/io5";
-import { MdCall } from "react-icons/md";
 import { Link } from "react-router-dom";
 
 function Buynow() {

@@ -24,43 +24,43 @@ function AdhyatmikQue() {
         },
     ]
 
-    const logos = [
-        {
-            src: require("../Images/Goldi_Solar_Logo-removebg-preview.png"),
-            alt: "Goldi Solar"
-        },
-        {
-            src: require("../Images/Narola_Shine_Within_Blue_page-0001-removebg-preview.png"),
-            alt: "Narola"
-        },
-        {
-            src: require("../Images/Shivam_Jewels-removebg-preview.png"),
-            alt: "Shivam Jewels"
-        },
-        {
-            src: require("../Images/SHG_Shri_Hari_Group_Logo_17.0-removebg-preview.png"),
-            alt: "SHG Shri Hari Group"
-        },
-        {
-            src: require("../Images/unique_sponser.jpeg"),
-            alt: "unique"
-        },
-        {
-            src: require("../Images/shree shubhlaxmi art sponcer_sm.png"),
-            alt: "shree shubhlaxmi art"
-        },
-    ];
+    // const logos = [
+    //     {
+    //         src: require("../Images/Goldi_Solar_Logo-removebg-preview.png"),
+    //         alt: "Goldi Solar"
+    //     },
+    //     {
+    //         src: require("../Images/Narola_Shine_Within_Blue_page-0001-removebg-preview.png"),
+    //         alt: "Narola"
+    //     },
+    //     {
+    //         src: require("../Images/Shivam_Jewels-removebg-preview.png"),
+    //         alt: "Shivam Jewels"
+    //     },
+    //     {
+    //         src: require("../Images/SHG_Shri_Hari_Group_Logo_17.0-removebg-preview.png"),
+    //         alt: "SHG Shri Hari Group"
+    //     },
+    //     {
+    //         src: require("../Images/unique_sponser.jpeg"),
+    //         alt: "unique"
+    //     },
+    //     {
+    //         src: require("../Images/shree shubhlaxmi art sponcer_sm.png"),
+    //         alt: "shree shubhlaxmi art"
+    //     },
+    // ];
 
-    const supportedlogos = [
-        {
-            src: require("../Images/supported_logo-removebg-preview.png"),
-            alt: "sampada festivity"
-        },
-        {
-            src: require("../Images/City Tadka logo.jpg"),
-            alt: "City Tadka"
-        },
-    ]
+    // const supportedlogos = [
+    //     {
+    //         src: require("../Images/supported_logo-removebg-preview.png"),
+    //         alt: "sampada festivity"
+    //     },
+    //     {
+    //         src: require("../Images/City Tadka logo.jpg"),
+    //         alt: "City Tadka"
+    //     },
+    // ]
     return (
         <>
             <div className='darkviolet'>
