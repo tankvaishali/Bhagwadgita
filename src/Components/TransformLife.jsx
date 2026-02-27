@@ -11,7 +11,7 @@ function TransformLife() {
                     <p className='text-light lh-lg' style={{ fontFamily: "Hind Vadodara" }}><span className='fw-bold orangecolor'>શ્રીમદ્ ભગવદ્ ગીતા </span> એ આપણા હિન્દુ સનાતન સાહિત્યનો હૃદય સમાન ગ્રંથ છે અને જ્ઞાન,કર્મ અને ભક્તિના અજોડ સંગમથી સફળતાના શિખરો પાર કરી શકાય છે </p>
                 </div> */}
                 <div className="text-center py-1">
-                    <div className='orangecolor textsizefont '>"First Time In Surat"</div>
+                    <div className='orangecolor textsizefont BerkshireSwashfont'>"First Time In <span className='text-light BerkshireSwashfont'>SURAT </span>"</div>
                     <div className="row d-flex justify-content-center py-3 ">
                         <div className="col-12 col-md-4 h-75">
                             <img src={require("../Images/2026 photos/web 4.jpg.jpeg")} alt="" className='object-fit-contain rounded-4 border border-secondary border-4 w-100 h-75' />

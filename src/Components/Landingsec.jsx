@@ -26,18 +26,18 @@ function Landingsec() {
     ]
 
     return (
-        <div className='darkviolet'>
+        <div className='darkviolet pt-2'>
             <div className="container">
                 <div className="">
-                    <div className='titlebg border-2 border border-danger  text-center gujfont'>
-                        <h5>After successfully delivering programs across various subjects, including a Shreemad Bhagavad Gita course, we are now organizing the Shreemad Bhagavad Gita course for the third time.</h5>
+                    <div className='titlebg border-2 border border-danger pt-2 text-center gujfont'>
+                        <h6>After successfully delivering programs across various subjects, including a Shreemad Bhagavad Gita course, we are now organizing the Shreemad Bhagavad Gita course for the third time.</h6>
                     </div>
                     <div className='text-center text-white fw-bold'>
-                        <h2 className='title pt-3'><span className="text-danger"> Shreemad Bhagavad Gita </span> Course In <span className="yellowcolor">Surat</span></h2>
+                        <h2 className='title pt-3 BerkshireSwashfont'><span className="text-danger BerkshireSwashfont"> Shreemad Bhagavad Gita </span> Course In <span className="yellowcolor BerkshireSwashfont">Surat</span></h2>
                     </div>
                     <div className="row d-flex justify-content-center py-3 ">
                         <div className="col-12 col-md-6 col-lg-6">
-                            <img src={require("../Images/Main_poster_2026.jpeg")} alt="" className='img-fluid object-fit-cover rounded-4 border border-secondary border-4 w-100 h-100' />
+                            <img src={require("../Images/2026 photos/web 3.jpg.jpeg")} alt="" className='img-fluid object-fit-cover rounded-4 border border-secondary border-4 w-100 h-100' />
                         </div>
                     </div>
                     {/* <div className='gujfont text-center text-white mb-1'>

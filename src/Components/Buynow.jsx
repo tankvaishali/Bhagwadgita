@@ -112,17 +112,17 @@ function Buynow() {
                                         </div>
                                         <div className="title fs-4 ps-1 col-8 gujfont">Social Army Trust</div>
                                     </div>
-                                    <div className="title fs-3 mt-3 mb-2 gujfont">Shreemad Bhagavad Gita Course In Surat</div>
+                                    {/* <div className="title fs-3 mt-3 mb-2 gujfont">Shreemad Bhagavad Gita Course In Surat</div>
                                     <div className="rounded" style={{ width: "50px", border: "3px solid var(--orange)" }}></div>
                                     <div className="my-3">
                                         <div><span className="fw-bold gujfont">Date :</span> 9, 10, 11 April 2026</div>
                                         <div className="my-1"><span className="fw-bold gujfont">Time :</span> 08:00 PM to 11:30 PM</div>
                                         <div><span className="fw-bold gujfont">Venue :</span> Sampada Festivity, Near Anthems Circle, Kosmada Ring Road, Surat.</div>
-                                    </div>
-                                    {/* <div className="w-100 h-100">
-                                        <img src={require("../Images/ImportedPhoto_1741755792907.jpg")} className="img-fluid object-fit-cover rounded w-100 h-100" alt="" />
                                     </div> */}
-                                    <div className="my-3">
+                                    <div className="w-100 h-100">
+                                        <img src={require("../Images/2026 photos/Buynow poster.jpg")} className="img-fluid object-fit-cover rounded w-100 h-100" alt="" />
+                                    </div>
+                                    {/* <div className="my-3">
                                         <div className="fw-bold gujfont">Contact Us :</div>
                                         <Link to={"mailto:official@socialarmytrust.com"} className="text-decoration-none text-dark contact_menu">
                                             <div className="my-1"><IoMail className="me-2 gujfont" /> <span>official@socialarmytrust.com</span></div>
@@ -130,7 +130,7 @@ function Buynow() {
                                         <Link to={"tel:+91 90676 65653"} className="text-decoration-none text-dark contact_menu">
                                             <div><MdCall className="me-2 gujfont" /> <span>+91 90676 65653</span></div>
                                         </Link>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                             <div className="col-12 col-lg-6 px-2 pb-4 p-lg-5">

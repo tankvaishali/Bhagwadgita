@@ -98,52 +98,12 @@ function AdhyatmikQue() {
                 </div>
             </div >
 
-            <div className="lightviolet">
-                <div className="container p-2">
-                    <div className='title text-white text-center px-2 px-md-4 text-capitalize gujfont'>
+            <div style={{ backgroundColor: "#1c1328" }}>
+                <div className="container p-2 text-center">
+                    <div className='title text-white text-center px-2 px-md-4 text-capitalize gujfont fs-3'>
                         "Unveil the Knowledge of Shreemad Bhagavad Gita with Paras Pandhi and <span className='orangecolor'>Eminent Sponsors of India</span>"
                     </div>
-                    <div className="container">
-                        <div className="row d-flex text-center justify-content-center my-2 bg-white col-md-12 mx-auto bg-white" style={{ border: "4px solid var(--orange)" }}>
-                            {logos.map((logo, index) => (
-                                <div key={index} className="col-6 col-md-6 col-lg-4 col-sm-6 px-0">
-                                    <div className="d-flex justify-content-center bg-white w-100 h-100" >
-                                        <img
-                                            src={logo.src}
-                                            alt={logo.alt}
-                                            height={200}
-                                            width={200}
-                                            className="img-fluid object-fit-contain my-3 px-sm-0 px-2 bg-white"
-                                        />
-                                    </div>
-                                </div>
-                            ))}
-                        </div>
-                    </div>
-                    <div className="container">
-                        <div className='title text-white text-center px-2 px-md-4 text-capitalize gujfont'>
-                            <span className='orangecolor'>supprted by</span>
-                        </div>
-                        <div className="">
-                            <div className="row d-flex text-center justify-content-center my-2 bg-white col-md-12 mx-auto bg-white" style={{ border: "4px solid var(--orange)" }}>
-                                {supportedlogos.map((logo, index) => (
-                                    <div key={index} className="col-5 col-md-6 col-lg-4 col-sm-6 px-0 mx-1">
-                                        <div className="d-flex justify-content-center bg-white w-100 h-100 mx-1">
-                                            <img
-                                                src={logo.src}
-                                                alt={logo.alt}
-                                                height={200}
-                                                width={200}
-                                                className="img-fluid object-fit-contain my-3  px-sm-0 px-2 bg-white"
-                                            />
-                                        </div>
-                                    </div>
-                                ))}
-                            </div>
-                        </div>
-                    </div>
-
-
+                    <img src={require('../Images/2026 photos/Sponser&Supprted_Poster.jpg')} alt="" className='img-fluid' />
                 </div>
             </div>
         </>
