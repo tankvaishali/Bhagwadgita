@@ -23,7 +23,7 @@ function LifeQue() {
     return (
         <>
             <div className='darkviolet'>
-                <div className="gujfont yellowcolor lightviolet title  text-center">
+                <div className="gujfont yellowcolor lightviolet title  text-center" style={{ fontFamily: "Hind Vadodara" }}>
                     વ્યવહારિક જીવનના પ્રશ્નો
                 </div>
 

@@ -64,7 +64,7 @@ function AdhyatmikQue() {
     return (
         <>
             <div className='darkviolet'>
-                <div className=" yellowcolor lightviolet title  text-center gujfont">
+                <div className=" yellowcolor lightviolet title  text-center gujfont" style={{ fontFamily: "Hind Vadodara" }}>
                     આધ્યાત્મિક જીવનના પ્રશ્નો
                 </div>
 
@@ -100,7 +100,7 @@ function AdhyatmikQue() {
 
             <div style={{ backgroundColor: "#1c1328" }}>
                 <div className="container p-2 text-center">
-                    <div className='title text-white text-center px-2 px-md-4 text-capitalize gujfont fs-3'>
+                    <div className='title text-white text-center px-2 px-md-4 text-capitalize gujfont fs-3 lh-sm'>
                         "Unveil the Knowledge of Shreemad Bhagavad Gita with Paras Pandhi and <span className='orangecolor'>Eminent Sponsors of India</span>"
                     </div>
                     <img src={require('../Images/2026 photos/Sponser&Supprted_Poster.jpg')} alt="" className='img-fluid' />
