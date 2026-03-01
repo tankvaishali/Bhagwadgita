@@ -103,7 +103,7 @@ function AdhyatmikQue() {
                     <div className='title text-white text-center px-2 px-md-4 text-capitalize gujfont fs-3 lh-sm unevilfont'>
                         "Unveil the Knowledge of Shreemad Bhagavad Gita with Paras Pandhi and <span className='orangecolor'>Eminent Sponsors of India</span>"
                     </div>
-                    <img src={require('../Images/2026 photos/Sponser&Supprted_Poster.jpg')} alt="" className='img-fluid' />
+                    <img src={require('../Images/2026 photos/web 2.jpg (1).jpeg')} alt="" className='img-fluid' />
                 </div>
             </div>
         </>
