@@ -91,12 +91,12 @@ function AdhyatmikQue() {
                         </div>
                     </div>
 
-                    <div className="col-12 lightviolet text-white text-center mt-1 fs-5 fw-bold p-2 rounded-2">
-                        <div className='fw-bold kalfonts' style={{ lineHeight: 1.6, fontFamily: "Hind Vadodara" }}>કાળ + પ્રકૃતિનાં ગુણોનો અભ્યાસ + કર્મનો સિદ્ધાંત = <span className='text-danger'> પરિણામ</span></div>
-                        <div className='fw-bold kalfonts' style={{ lineHeight: 1.6, fontFamily: "Hind Vadodara" }}>પરિણામ + ગીતાજ્ઞાન = <span className='text-danger'> સફળતા</span></div>
-                    </div>
                 </div>
             </div >
+            <div className="col-12 lightviolet text-white text-center fs-5 fw-bold p-2">
+                <div className='fw-bold kalfonts' style={{ lineHeight: 1.6, fontFamily: "Hind Vadodara" }}>કાળ + પ્રકૃતિનાં ગુણોનો અભ્યાસ + કર્મનો સિદ્ધાંત = <span className='text-danger'> પરિણામ</span></div>
+                <div className='fw-bold kalfonts' style={{ lineHeight: 1.6, fontFamily: "Hind Vadodara" }}>પરિણામ + ગીતાજ્ઞાન = <span className='text-danger'> સફળતા</span></div>
+            </div>
 
             <div style={{ backgroundColor: "#1c1328" }}>
                 <div className="container p-2 text-center">
