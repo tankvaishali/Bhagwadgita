@@ -6,10 +6,12 @@ import AdhyatmikQue from './AdhyatmikQue';
 import Imagegrid from './Imagegrid';
 import Footer from './Footer';
 import Ticketscard from './Ticketscard';
+import QrCodegen from './QrCodegen';
 
 function Home() {
   return (
     <>
+      {/* <QrCodegen />  //QR GENERATE CODE*/}
       <Landingsec />
       <Ticketscard />
       <TransformLife />
