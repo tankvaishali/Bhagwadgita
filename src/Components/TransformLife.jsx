@@ -14,7 +14,7 @@ function TransformLife() {
                     <div className='orangecolor textsizefont BerkshireSwashfont'>"First Time In <span className='text-light BerkshireSwashfont'>SURAT </span>"</div>
                     <div className="row d-flex justify-content-center py-3 ">
                         <div className="col-12 col-md-4 h-75">
-                            <img src={require("../Images/2026 photos/web 4.jpg.jpeg")} alt="" className='object-fit-contain rounded-4 border border-secondary border-4 w-100 h-75' />
+                            <img src={require("../Images/2026 photos/singer's_poster.jpeg")} alt="" className='object-fit-contain rounded-4 border border-secondary border-4 w-100 h-75' />
                         </div>
                     </div>
                 </div>

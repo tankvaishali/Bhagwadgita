@@ -28,8 +28,11 @@ const ImageGrid = () => {
         <>
             <div className="darkviolet py-1">
                 <div className="container">
-                    <div className="text-white  title  text-center" style={{ fontFamily: "Hind Vadodara" }}>
+                    <div className="text-white title text-center text fs-1" style={{ fontFamily: "Hind Vadodara" }}>
                         પારસ પાંધીના સફળ કાર્યક્રમો
+                    </div>
+                    <div className="bg-danger w-50 mx-auto mb-3" style={{ fontFamily: "Hind Vadodara", height: '3px' }}>
+
                     </div>
 
                     <div className="containerimg mx-auto">

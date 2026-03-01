@@ -92,15 +92,15 @@ function AdhyatmikQue() {
                     </div>
 
                     <div className="col-12 lightviolet text-white text-center mt-1 fs-5 fw-bold p-2 rounded-2">
-                        <h2 className='fw-bold' style={{ lineHeight: 1.6, fontFamily: "Hind Vadodara" }}>કાળ + પ્રકૃતિનાં ગુણોનો અભ્યાસ + કર્મનો સિદ્ધાંત = <span className='text-danger'> પરિણામ</span></h2>
-                        <h2 className='fw-bold' style={{ lineHeight: 1.6, fontFamily: "Hind Vadodara" }}>પરિણામ + ગીતાજ્ઞાન = <span className='text-danger'> સફળતા</span></h2>
+                        <div className='fw-bold kalfonts' style={{ lineHeight: 1.6, fontFamily: "Hind Vadodara" }}>કાળ + પ્રકૃતિનાં ગુણોનો અભ્યાસ + કર્મનો સિદ્ધાંત = <span className='text-danger'> પરિણામ</span></div>
+                        <div className='fw-bold kalfonts' style={{ lineHeight: 1.6, fontFamily: "Hind Vadodara" }}>પરિણામ + ગીતાજ્ઞાન = <span className='text-danger'> સફળતા</span></div>
                     </div>
                 </div>
             </div >
 
             <div style={{ backgroundColor: "#1c1328" }}>
                 <div className="container p-2 text-center">
-                    <div className='title text-white text-center px-2 px-md-4 text-capitalize gujfont fs-3 lh-sm'>
+                    <div className='title text-white text-center px-2 px-md-4 text-capitalize gujfont fs-3 lh-sm unevilfont'>
                         "Unveil the Knowledge of Shreemad Bhagavad Gita with Paras Pandhi and <span className='orangecolor'>Eminent Sponsors of India</span>"
                     </div>
                     <img src={require('../Images/2026 photos/Sponser&Supprted_Poster.jpg')} alt="" className='img-fluid' />

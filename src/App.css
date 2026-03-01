@@ -60,6 +60,8 @@
   /* font-weight: 600; */
 }
 
+
+
 .pera {
   font-size: 18px;
 }
@@ -67,6 +69,14 @@
 @media only screen and (max-width: 768px) {
   .title {
     font-size: 30px !important;
+  }
+
+  .unevilfont {
+    font-size: 19px !important;
+  }
+
+  .kalfonts {
+    font-size: 12px;
   }
 
   .pera {
