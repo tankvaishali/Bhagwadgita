@@ -6,7 +6,7 @@ import AdhyatmikQue from './AdhyatmikQue';
 import Imagegrid from './Imagegrid';
 import Footer from './Footer';
 import Ticketscard from './Ticketscard';
-import QrCodegen from './QrCodegen';
+// import QrCodegen from './QrCodegen';
 
 function Home() {
   return (
