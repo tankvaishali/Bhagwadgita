@@ -172,6 +172,7 @@ function Buynow() {
                                                 <option value="Hirabag">Hirabag</option>
                                                 <option value="Kapodra">Kapodra</option>
                                                 <option value="Sarthana">Sarthana</option>
+                                                <option value="Yogi Chowk">Yogi Chowk</option>
                                                 <option value="Kamrej">Kamrej</option>
                                                 {/* <option value="Althan">Althan</option>
                                                 <option value="Gajera_Katargam">Gajera (Katargam)</option>
@@ -213,7 +214,7 @@ function Buynow() {
                                         <div className="w-100">
                                             <Link to={""} className="text-decoration-none">
                                                 <button className="buttons w-100 btn text-light" type="button" onClick={savedata} style={{ fontFamily: "Sora, Sans-serif", fontWeight: 700 }}>Submit</button>
-                                            </Link>  
+                                            </Link>
                                         </div>
                                     </div>
                                 </div>
