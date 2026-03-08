@@ -169,6 +169,8 @@ function Buynow() {
                                                 <option value="Vesu">Vesu</option>
                                                 <option value="Amroli">Amroli</option>
                                                 <option value="Katargam">Katargam</option>
+                                                <option value="Mota Varachha">Mota Varachha</option>
+                                                <option value="Railway Station Area">Railway Station Area</option>
                                                 <option value="Hirabag">Hirabag</option>
                                                 <option value="Kapodra">Kapodra</option>
                                                 <option value="Sarthana">Sarthana</option>
@@ -177,10 +179,8 @@ function Buynow() {
                                                 {/* <option value="Althan">Althan</option>
                                                 <option value="Gajera_Katargam">Gajera (Katargam)</option>
                                                 <option value="Ghoddodroad">Ghod Dod Road</option>
-                                                <option value="Mota Varachha">Mota Varachha</option>
                                                 <option value="Punagam">Punagam</option>
                                                 <option value="Puna_Parvat-Patiya">Puna (Parvat-Patiya)</option>
-                                                <option value="Railway Station Area">Railway Station Area</option>
                                                 <option value="Utran">Utran</option>
                                                 <option value="Valak_Patiya">Valak Patiya</option>
                                                 <option value="Valenja">Valenja</option>
