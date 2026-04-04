@@ -27,6 +27,9 @@ function Landingsec() {
 
     return (
         <div className='darkviolet pt-2'>
+            <div className="pt-2 text-center mb-3 gujfont fw-bold text-light" style={{ fontFamily: "Hind Vadodara" }}>
+                નોંધ – ભગવદ્ ગીતા કોર્સ માટેની જગ્યા પૂર્ણ થઈ ગઈ હોવાથી, તારીખ 04/04/2026 રાત્રે 12:00 વાગ્યા પછી જે કોઈ પાસ બુકિંગ કરશે, તેમને ઉપલબ્ધ જગ્યા મુજબ પાસ વિતરણ કરવામાં આવશે.
+            </div>
             <div className="container">
                 <div className="">
                     <div className='titlebg border-2 border border-danger pt-2 text-center gujfont'>

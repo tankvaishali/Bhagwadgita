@@ -203,6 +203,9 @@ function Buynow() {
                                         </div>
 
                                         <div className="text-dark fw-bold my-3" style={{ fontSize: "12px", fontFamily: "Hind Vadodara" }}>
+                                            નોંધ – ભગવદ્ ગીતા કોર્સ માટેની જગ્યા પૂર્ણ થઈ ગઈ હોવાથી, તારીખ 04/04/2026 રાત્રે 12:00 વાગ્યા પછી જે કોઈ પાસ બુકિંગ કરશે, તેમને ઉપલબ્ધ જગ્યા મુજબ પાસ વિતરણ કરવામાં આવશે.
+                                        </div>
+                                        <div className="text-dark fw-bold my-3" style={{ fontSize: "12px", fontFamily: "Hind Vadodara" }}>
                                             નોંધ - રજીસ્ટ્રેશન કર્યા પછી
                                             પાસ જે તે સેંટર પર આવશે એટલે કોલ કરી જાણકારી આપવા માં આવશે,
                                             ફિઝિકલ પાસ લેવો ફરજીયાત છે.
