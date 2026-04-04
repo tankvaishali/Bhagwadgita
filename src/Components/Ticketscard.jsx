@@ -21,8 +21,8 @@ function Ticketscard() {
                                     </div>
                                 </div>
                                 <div className='mt-2'>
-                                    <Link to={"/buynow"} className='text-decoration-none'>
-                                        <button className='buttons w-100 btn text-light' type="button" style={{ fontFamily: "Sora, Sans-serif", fontWeight: 700 }}>Register Now</button>
+                                    <Link to={"/"} className='text-decoration-none'>
+                                        <button className='buttons w-100 py-2 text-light' disable type="button" style={{ fontFamily: "Sora, Sans-serif", fontWeight: 700 }}>Register Now</button>
                                     </Link>
                                 </div>
                             </div>

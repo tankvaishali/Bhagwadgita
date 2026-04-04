@@ -44,10 +44,10 @@
 .buttons {
   background-color: #120b2a;
 }
-
+/* 
 .buttons:hover {
   background-color: var(--orange);
-}
+} */
 
 /* landing start */
 .titlebg {
