@@ -11,7 +11,7 @@ function App() {
    <BrowserRouter>
    <Routes>
     <Route path='/' element={<Home/>}/>
-    <Route path='/buynow' element={<Buynow/>}/>
+    {/* <Route path='/buynow' element={<Buynow/>}/> */}
     <Route path='/passdata' element={<Datalist/>}/>
    </Routes>
    </BrowserRouter>
