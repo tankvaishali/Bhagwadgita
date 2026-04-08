@@ -205,7 +205,9 @@ function Buynow() {
                                             <div className='text-danger w-75 ms-auto'>{errormsg.pass}</div>
                                         </div>
 
-
+                                        <div className="text-dark fw-bold my-3" style={{ fontSize: "12px", fontFamily: "Hind Vadodara" }}>
+                                            નોંધ –ભગવદ ગીતા કોર્સ માટે રજિસ્ટ્રેશન ફી આપવી ફરજિયાત નથી — તે સંપૂર્ણપણે સ્વૈચ્છિક છે. 🙏
+                                        </div>
                                         <div className="text-dark fw-bold my-3" style={{ fontSize: "12px", fontFamily: "Hind Vadodara" }}>
                                             નોંધ - રજીસ્ટ્રેશન કર્યા પછી
                                             પાસ જે તે સેંટર પર આવશે એટલે કોલ કરી જાણકારી આપવા માં આવશે,

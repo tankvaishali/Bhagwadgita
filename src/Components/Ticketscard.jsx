@@ -25,6 +25,9 @@ function Ticketscard() {
                                         <button className='buttons w-100 py-2 text-light' disable type="button" style={{ fontFamily: "Sora, Sans-serif", fontWeight: 700 }}>Register Now</button>
                                     </Link>
                                 </div>
+                                <div className="text-dark fw-bold my-3" style={{ fontSize: "12px", fontFamily: "Hind Vadodara" }}>
+                                    નોંધ –ભગવદ ગીતા કોર્સ માટે રજિસ્ટ્રેશન ફી આપવી ફરજિયાત નથી — તે સંપૂર્ણપણે સ્વૈચ્છિક છે. 🙏
+                                </div>
                             </div>
                         </div>
                     </div>
